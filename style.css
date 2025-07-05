@@ -1,0 +1,20 @@
+body{
+     background-color: #cccccc;
+  background-image: repeating-radial-gradient(rgb(8, 85, 25), rgb(62, 163, 92) 10%, rgb(131, 199, 140) 20%);
+
+}
+h1 {
+color: #fdfdfd   
+}
+p{
+    color:#ffffff
+}
+img {
+  border: 1px solid #0a460d;
+  border-radius: 20px;
+  padding: 5px;
+  width: 500px;
+}
+center {
+      color:#ffffff 
+}
